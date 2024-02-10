@@ -1,6 +1,9 @@
 {
-  "name": "textfield",
+  "name": "@Abbie0218/Textfield",
   "version": "1.0.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/Abbie0218"
+  },
   "description": "",
   "scripts": {
     "rollup": "rollup -c"
